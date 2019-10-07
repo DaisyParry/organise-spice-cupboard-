@@ -6,4 +6,8 @@ Less Important
  * Bean 
  * Bean 
 
-My best bean is the juiciest bean 
+My best bean is the juiciest bean
+
+Lovely bean cant wait to bean with bean 
+
+*BEAN BBBE* *BEAN BEAN BABY* 
