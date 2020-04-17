@@ -37,3 +37,11 @@ The following definitions might be useful during the rest of this guide
 > **Secure Research Environment (SRE)**: the environment that you will be using to access the sensitive data.
 
 > **Turing Safe Haven**: the overall project that details how to create and manage one or more SREs.
+
+> **Data Assesment App**: 
+
+> **Work package**: 
+
+> **Data Ingress**:
+
+> **Data Egress**: 
