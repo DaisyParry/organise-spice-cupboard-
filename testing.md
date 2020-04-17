@@ -4,6 +4,7 @@ Data Provider & PI Safe Haven User Guide
 ## :mailbox_with_mail: Table of contents:
 
 * [**Introduction:** The Turing Safe Haven](https://github.com/DaisyParry/organise-spice-cupboard-/edit/master/testing.md#introduction-the-turing-safe-haven)
+- [:mag_right: Definitions](#mag_right-definitions)
 
 ## :beginner: Introduction: The Turing Safe Haven
 
@@ -26,7 +27,13 @@ The level of sensitivity of your data determines whether researchers will have a
 | Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |
 
 
-
-
 Please read this user guide carefully and remember to refer back to it when you have questions. In many cases the answer is already here, but if you think this resource could be clearer, please let us know so we can improve the documentation for future users.
 
+
+### :mag_right: Definitions
+
+The following definitions might be useful during the rest of this guide
+
+> **Secure Research Environment (SRE)**: the environment that you will be using to access the sensitive data.
+
+> **Turing Safe Haven**: the overall project that details how to create and manage one or more SREs.
