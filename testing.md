@@ -6,7 +6,7 @@ Data Provider & PI Safe Haven User Guide
 * [**Introduction:** The Turing Safe Haven](https://github.com/DaisyParry/organise-spice-cupboard-/edit/master/testing.md#introduction-the-turing-safe-haven)
   - [:mag_right: Definitions](#mag_right-definitions)
 
-* [:microscope: **The data sensitivity classification process**](#microscope-the-data-sensitivity-process)
+* [:microscope: **The Data Sensitivity Classification Process**](#microscope-the-data-sensitivity-process)
 
 ## :beginner: Introduction: The Turing Safe Haven
 
