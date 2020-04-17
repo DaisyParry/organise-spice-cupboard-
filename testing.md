@@ -81,7 +81,7 @@ It may be used for pseudonymised or synthetic information generated from persona
 It may also be used for commercial data where commercial consequences of disclosure would be no impact or very low impact, with the agreement of all parties.
 
 ### Tier 2 
-==============
+--------------
 
 Tier 2 Environments are used to handle, combine or generate information which is not linked to identifiable personal data.
 
@@ -92,7 +92,7 @@ Tier 2 Environments are also used to handle, combine or generate information whi
 At Tier 2, the most significant risks are "workaround breach" and the risk of mistakenly believing data is robustly pseudonymised or anonymised, when in fact re-identification might be possible.
 
 ### Tier 3 
-============
+------------
 
 Tier 3 Environments are used to handle, combine or generate personal data, excluding personal data where there is a risk that disclosure might pose a substantial threat to the personal safety, health or security of the data subjects (which would be Tier 4).
 
@@ -105,7 +105,7 @@ The difference between Tier 2 and Tier 3 Environments is the most significant in
 At Tier 3, the risk of hostile actors attempting to break into the Environment becomes significant.
 
 ### Tier 4 
-============
+--------------
 
 Tier 4 Environments are used to handle, combine or generate personal data where disclosure poses a substantial threat to the personal safety, health or security of the data subjects.
 
@@ -120,7 +120,7 @@ Classification takes place in the Data Assessment App. We emphasise that classif
 Derived information may be of higher security tier than the information in the input datasets. (For example, information on the identities of those who are suspected to possess an undiagnosed neurological condition on the basis of analysis of public social media data.) 
 
 ### In the safe haven model, there are three key roles:
-==========================================================
+--------------------------------------------------------
 
 **Principal Investigator** - The research project lead, this individual is responsible for ensuring that project staff comply with the Environment's security policies.
 
@@ -132,7 +132,7 @@ To classify the data to be used in a project, each role representative will go t
 
 
 ### Classification Process 
-=============================
+--------------------------
 
 * The Data set provider prepares the data and conducts the assesmnet in the Data Sensitivity App 
 * The Data provider transfers the data into a temporary safe haven environment 
