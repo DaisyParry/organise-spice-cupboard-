@@ -1,5 +1,5 @@
-### Table of contents 
+## :mailbox_with_mail: Table of contents:
 
-* [Introduction to the safe haven] (https://github.com/DaisyParry/organise-spice-cupboard-/edit/master/testing#introduction-to-the-safe-haven)
+* [**Introduction:** The Turing Safe Haven](https://github.com/DaisyParry/organise-spice-cupboard-/edit/master/testing.md#introduction-the-turing-safe-haven)
 
-## Introduction to the safe haven 
+## :beginner: Introduction: The Turing Safe Haven
