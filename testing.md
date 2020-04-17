@@ -17,5 +17,10 @@ The data you are working on will need to be classified into one of five sensitiv
 
 The level of sensitivity of your data determines whether researchers will have access to the internet within the SRE and whether you are allowed to copy and paste between the secure research environment and other windows on your computer. This means researchers may be limited to which data science tools they are allowed to install. 
 
+| Safe Haven sensitivity tier | Data features | Environment features |
+| ---------------------------- | ------------ | -------------------- |
+| Tier 0 | Open data or data with no negative consequences if it was to be published | Access from any device, copyy and paste function enables, intenet enabled |
+| Tier 1 | Data with very limited consequences if it was to be published, such as data being held back from being published for research advantage | Access from any device, copyy and paste function enables, intenet enabled |
+
 Please read this user guide carefully and remember to refer back to it when you have questions. In many cases the answer is already here, but if you think this resource could be clearer, please let us know so we can improve the documentation for future users.
 
