@@ -114,7 +114,7 @@ Classification takes place in the Data Assessment App. We emphasise that classif
 
 Derived information may be of higher security tier than the information in the input datasets. (For example, information on the identities of those who are suspected to possess an undiagnosed neurological condition on the basis of analysis of public social media data.) 
 
-In the safe haven model, there are three key roles:
+# In the safe haven model, there are three key roles:
 
 **Principal Investigator** - The research project lead, this individual is responsible for ensuring that project staff comply with the Environment's security policies.
 
@@ -125,7 +125,7 @@ In the safe haven model, there are three key roles:
 To classify the data to be used in a project, each role representative will go through a series of questions in the Data Assessmnet App, to help understand the sensitivity of the project based on the data involved.
 
 
-Classification Process 
+# Classification Process 
 
 * The Data set provider prepares the data and conducts the assesmnet in the Data Sensitivity App 
 * The Data provider transfers the data into a temporary safe haven environment 
