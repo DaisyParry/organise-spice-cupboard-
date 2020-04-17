@@ -33,7 +33,7 @@ The following definitions might be useful during the rest of this guide
 
 ## :microscope: Safe Haven Environment Tiers
 
-### Summary Table:###
+### Summary Table:
 
 | Safe Haven sensitivity tier | Data example | Environment features |
 | ---------------------------- | ------------ | -------------------- |
