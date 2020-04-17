@@ -134,8 +134,8 @@ To classify the data to be used in a project, each role representative will go t
 ### Classification Process 
 --------------------------
 
-* The Data set provider prepares the data and conducts the assesmnet in the Data Sensitivity App 
-* The Data provider transfers the data into a temporary safe haven environment 
-* The Principal Investigator accesss the data and conducts the assesmnet in the Data Senstitivity App 
-* If the Tier outcome is 2 or above and referee then accesses the data and conducts the assesment in the Data Sensititvity App
-* If all assessments return the same tier - the tier is assighned and the data is moved into a corresponding environemnt 
+* The Data set provider prepares the data and conducts the assesmnet in the Data Sensitivity App. 
+* The Data provider transfers the data into a temporary Turing safe haven environment. 
+* The Principal Investigator accesses the data and conducts the assesmnet in the Data Senstitivity App. 
+* If the Tier outcome is 2 or above, a referee then accesses the data and conducts the assesment in the Data Sensititvity App.
+* If all assessments return the same tier - the tier is assighned and the data is moved into a corresponding environemnt.
