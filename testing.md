@@ -123,7 +123,7 @@ In our model, projects are divided into **work packages**, which we use here to 
 
 The project cycle tends to require that work packages are assessed at the following stages:
 
-* Data Ingress - To decide which envrioenmt the data is to be stored in 
+* Data ingress - To decide which envrioenmt the data is to be stored in 
 * Data and outputs egress - To decide if the data and resulatant outputs of the project are safe to remove from the secure environment
 
 ### Classification takes place in the Data Assessment App, in the safe haven model, there are three actors who must assess the project for a tier to be assighned:
