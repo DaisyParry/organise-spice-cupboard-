@@ -120,7 +120,6 @@ Classification takes place in the Data Assessment App. We emphasise that classif
 Derived information may be of higher security tier than the information in the input datasets. (For example, information on the identities of those who are suspected to possess an undiagnosed neurological condition on the basis of analysis of public social media data.) 
 
 ### In the safe haven model, there are three key roles:
---------------------------------------------------------
 
 **Principal Investigator** - The research project lead, this individual is responsible for ensuring that project staff comply with the Environment's security policies.
 
