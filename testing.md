@@ -137,11 +137,20 @@ The project cycle tends to require that work packages are assessed at the follow
 To classify the data to be used in a project, each role representative will go through a series of questions in the Data Assessmnet App, to help understand the sensitivity of the project based on the data involved.
 
 
-### Classification Process 
+### Classification process for ingress 
 --------------------------
 
-* The Data set provider prepares the data and conducts the assesmnet in the Data Sensitivity App. 
+* The Data set provider prepares the data and conducts the assesmnet in the Data Assessment App. 
 * The Data provider transfers the data into a temporary Turing safe haven environment. 
 * The Principal Investigator accesses the data and conducts the assesmnet in the Data Senstitivity App. 
 * If the Tier outcome is 2 or above, a referee then accesses the data and conducts the assesment in the Data Sensititvity App.
 * If all assessments return the same tier - the tier is assighned and the data is moved into a corresponding environemnt.
+
+### Classification process for egress
+-------------------------------------
+
+* The Data Set provider reviews the contents of the environemnt (which should now contain additional files/derviced data as a result of wokr on the project) and conducts the assessment in the Data Assessment App.
+* The Principal Investigator reviews the contents of the environment and conducts the assessment in the web app 
+* If the project wastier 2 or above a refree must also conduct the assessment in the web app. 
+* If the tier is 1 or 0 the contents can be removed. 
+* If the tier is 2 or above, all parties must agree what can and cannot be removed - if anything. 
