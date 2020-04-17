@@ -47,7 +47,7 @@ The following definitions might be useful during the rest of this guide
 | Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |
 
 ### Tier 0 
-============
+--------------
 
 Tier 0 Environments are used to handle open information, which is legally available to the general public with no restrictions, where all generated and combined information is also suitable for open handling.
 
@@ -68,7 +68,7 @@ Although analysis may take place on personal devices or in non-managed cloud-bas
 Finally, audit trails as to the handling of Tier 0 information reduce risks associated with misclassification - if data is mistakenly classified as a lower tier than it should be, we still retain information as to how it was processed during the period of misclassification.
 
 ### Tier 1 
-============
+----------------
 
 Tier 1 Environments are used to handle, process and generate data that is intended for eventual publication or that could be published without reputational damage.
 
