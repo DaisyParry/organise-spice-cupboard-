@@ -38,7 +38,7 @@ The following definitions might be useful during the rest of this guide
 
 ### Summary Table:
 
-| Safe Haven sensitivity tier | Data example | Environment features |
+| Safe haven sensitivity tier | Data example | Environment features |
 | ---------------------------- | ------------ | -------------------- |
 | Tier 0 | Open data or data with no negative consequences if it was to be published | Access from any device, copy and paste function enables, intenet enabled |
 | Tier 1 | Data with very limited consequences if it was to be published, such as data being held back from being published for research advantage | Access from any device, copy and paste function enables, intenet enabled |
