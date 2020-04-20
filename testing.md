@@ -115,6 +115,16 @@ It is at Tier 4 that the risk of hostile actors penetrating the project team bec
 
 ## :microscope: Sensitivity Classification Process 
 
+### Classification takes place in the Data Assessment App, in the safe haven model, there are three actors who must assess the project for a tier to be assighned:
+
+**Principal Investigator** - The research project lead, this individual is responsible for ensuring that project staff comply with the Environment's security policies.
+
+**Dataset Provider** - A representative of the organisation who provided the dataset under analysis. The Dataset Provider will designate a single representative contact to liaise with the Investigator, authorised to certify sharing of datasets with the researchers.
+
+**Referee** - A Referee volunteers to review code or derived data (data which is computed from the original dataset), providing evidence to the Investigator and Dataset Provider Representative that the researchers are complying with data handling practices.
+
+To classify the data to be used in a project, each role representative will go through a series of questions in the Data Assessmnet App, to help understand the sensitivity of the project based on the data involved.
+
 Assessing the sensitivity of a dataset requires an understanding of both the base sensitivity of the information contained in the dataset and of the impact on that base sensitivity of the operations that it will undergo in the research project. The classification exercise therefore relates to each stage of a project and not simply to the datasets as they are introduced into it.
 
 Classification to a tier is therefore not a property of a dataset, because a dataset's sensitivity depends on the data it can be combined with, and the use to which it is put.
@@ -125,16 +135,6 @@ The project cycle tends to require that work packages are assessed at the follow
 
 * Data ingress - To decide which envrioenmt the data is to be stored in 
 * Data and outputs egress - To decide if the data and resulatant outputs of the project are safe to remove from the secure environment
-
-### Classification takes place in the Data Assessment App, in the safe haven model, there are three actors who must assess the project for a tier to be assighned:
-
-**Principal Investigator** - The research project lead, this individual is responsible for ensuring that project staff comply with the Environment's security policies.
-
-**Dataset Provider** - A representative of the organisation who provided the dataset under analysis. The Dataset Provider will designate a single representative contact to liaise with the Investigator, authorised to certify sharing of datasets with the researchers.
-
-**Referee** - A Referee volunteers to review code or derived data (data which is computed from the original dataset), providing evidence to the Investigator and Dataset Provider Representative that the researchers are complying with data handling practices.
-
-To classify the data to be used in a project, each role representative will go through a series of questions in the Data Assessmnet App, to help understand the sensitivity of the project based on the data involved.
 
 
 ### Classification process for ingress 
